@@ -7,7 +7,7 @@ SMU Data Bootcamp
 3. Create a regression to find a relationship between two data fields
 4. Create data visualizations to visualize the conclusions made for our research questions
 
-**Project Topic:** For our project, we tried to find trends and correlations in NFL games such as game attendance, the gap of the score, start time of the game, and more to determine if we can predict the number of arrests that occur at a NFL stadium on a game day. Throughout our project we also found other insights in addition to arrests.
+**Project Topic:** For our project, we tried to find trends and correlations in NFL games such as game attendance, the gap of the score, start time of the game, and more to determine if we can predict the number of arrests that occur at a NFL stadium on a game day. These could be helpful data insights for NFL teams to make decisions on the required number of police present for each game or any other safety precautions which need to be taken. This project was inspired by our love for the sport, and on the frequency of NFL game disputes seen on social media. Throughout our project we also found other insights in addition to arrests.
 
 **What We Did:**
 For this project we used 3 csv files from Kaggle for our data: NFL Games, NFL Attendance, and NFL Arrests. We first cleaned our data by removing playoff games in the NFL games datasets and changing the New York Giants and New York Jets "home city" to NYG and NYJ, respectively. After cleaning the data we created a concatenated column from "year", "week", and "home city". With this newly created column we merged all 3 of our datasets into 1 to begin statistical testing and creating data visualizations. To answer our research questions we also used regressions and conducted ANOVA and T-tests
@@ -26,6 +26,6 @@ For details of the work done during this project please view the 'Reports' folde
 
 Group Members:
 
-Emmanuel Presley
-Joshua Hale
-Raheem Yusuff
+- Emmanuel Presley
+- Joshua Hale
+- Raheem Yusuff
