@@ -10,7 +10,7 @@ SMU Data Bootcamp
 **Project Topic:** For our project, we tried to find trends and correlations in NFL games such as game attendance, the gap of the score, start time of the game, and more to determine if we can predict the number of arrests that occur at a NFL stadium on a game day. Throughout our project we also found other insights in addition to arrests.
 
 **What We Did:**
-For this project we used 3 csv files from Kaggle for our data: NFL Games, NFL Attendance, and NFL Arrests. We first cleaned our data by removing playoff games in the NFL games datasets and changing the New York Giants and New York Jets "home city" to NYG and NYJ, respectively. After cleaning the data we created a concatenated column from "year", "week", and "home city". With this newly created column we merged all 3 of our datasets into 1 to begin statistical testing and data visualizations. To answer our research questions we used regressions, conducted ANOVA and T-tests, and created data visualizations to make data-driven conclusions.
+For this project we used 3 csv files from Kaggle for our data: NFL Games, NFL Attendance, and NFL Arrests. We first cleaned our data by removing playoff games in the NFL games datasets and changing the New York Giants and New York Jets "home city" to NYG and NYJ, respectively. After cleaning the data we created a concatenated column from "year", "week", and "home city". With this newly created column we merged all 3 of our datasets into 1 to begin statistical testing and creating data visualizations. To answer our research questions we also used regressions and conducted ANOVA and T-tests
 
 **With this dataset, we wanted to answer the following research questions:**
 
@@ -24,7 +24,7 @@ How strong is home field advantage?
 
 For details of the work done during this project please view the 'Reports' folder for our final presentation and write up. Our 'Code' folder will showcase the work done in Pandas, and the 'Data' folder documents our csv datasets from Kaggle, as well as, our cleaned and merged dataset.
 
-Group 2
+Group Members:
 
 Emmanuel Presley
 Joshua Hale
