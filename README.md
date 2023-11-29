@@ -26,6 +26,6 @@ For details of the work done during this project please view the 'Reports' folde
 
 Group Members:
 
-Emmanuel Presley
-Joshua Hale
-Raheem Yusuff
+- Emmanuel Presley
+- Joshua Hale
+- Raheem Yusuff
